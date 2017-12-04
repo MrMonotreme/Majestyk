@@ -5,7 +5,11 @@
 		Install the latest .Net Framework (provided in compressed archive)
 	Run Majestyk.exe 
 	
-	--------------------------------------------------WARNING-----------------------------------------------
-	x86 only won't install some 64 bit MSIs (I'm too lazy to fix that, you'll have to download them manually)
-	
+	--------------------------------------------------WARNING-----------------------------------------------	
 	This was generally made in C# (In a later version I'll probably write it in C for greater speed) 
+
+#For the future
+	Port application into linux iso based version
+	Mount win part
+	kinda
+	
